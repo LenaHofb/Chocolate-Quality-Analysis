@@ -73,7 +73,7 @@ Some key insights from the analysis include:
 - **README.md**: Overview of the project, including objectives, methodology, and findings.
 
 ## How to run the Code
-The code is available as jupyter notebooks. To run the analysis, navigate to the [Scripts](./Scripts) directory and open the relevant Jupyter notebooks.
+The code is available as jupyter notebooks. To run the analysis, navigate to the [scripts](./scripts) directory and open the relevant Jupyter notebooks.
 
 
 ## Results
