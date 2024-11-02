@@ -70,8 +70,6 @@ Some key insights from the analysis include:
 ## Repository Structure
 - **/data/**: Contains raw and cleaned datasets used for analysis.
 - **/scripts/**: Python scripts for data processing, analysis, and visualization.
-- **/notebooks/**: Jupyter notebooks documenting the analysis steps in detail.
-- **/visualizations/**: Exports of Tableau dashboards and other visualizations generated in Python.
 - **README.md**: Overview of the project, including objectives, methodology, and findings.
 
 - ## How to run the Code
