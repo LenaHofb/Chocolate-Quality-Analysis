@@ -69,7 +69,6 @@ Some key insights from the analysis include:
 - **Company and Region Alignment**: Top-rated companies often source from high-rated regions, suggesting the importance of origin in quality perception.
 
 ## Repository Structure
-- **/data/**: Contains raw and cleaned datasets used for analysis.
 - **/scripts/**: Python scripts for data processing, analysis, and visualization.
 - **README.md**: Overview of the project, including objectives, methodology, and findings.
 
