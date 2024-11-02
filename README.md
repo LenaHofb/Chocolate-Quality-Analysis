@@ -77,4 +77,4 @@ The code is available as jupyter notebooks. To run the analysis, navigate to the
 
 
 ## Results
-Click here for the [Tableau Storyboard](https://public.tableau.com/app/profile/magdalena.hofbauer/viz/ChocolateBarAnalysis_17305697958730/ChocolateBarAnalysis?publish=yes)
+Click here for the [Tableau Storyboard](https://public.tableau.com/app/profile/magdalena.hofbauer/viz/ChocolateQualityAnalysis/ChocolateBarAnalysis)
