@@ -23,7 +23,7 @@ The primary goal of this analysis is to determine whether cocoa content affects 
 
 ## Tools and Technologies
 The following tools were used in this project:
-- **Python (Pandas, Seaborn, Scikit-Learn)**: For data cleaning, exploratory data analysis, and machine learning models.
+- **Python (Pandas, Seaborn, Scikit-Learn, Matplotlib, JSON, Numpy, Folium, Statsmodels)**: For data cleaning, exploratory data analysis, and machine learning models.
 - **Tableau**: To create interactive visualizations and a final dashboard for presenting the findings.
 - **Jupyter Notebook**: For documentation and running analysis scripts in a structured environment.
 
