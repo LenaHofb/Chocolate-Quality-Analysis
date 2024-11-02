@@ -1,5 +1,6 @@
 # Chocolate-Quality-Analysis
-![Project Logo](images/logo.png)
+<img src="https://github.com/LenaHofb/Chocolate-Quality-Analysis/blob/main/Cocoa-Beans-PNG-Image.png" alt="Project Logo" width="200" height="150"/>
+
 
 ## Introduction
 This project explores the factors influencing chocolate quality, focusing on cocoa content, regional origins, and consumer ratings. As consumer interest in high-quality chocolate continues to grow, understanding these factors can help chocolate companies and suppliers make informed decisions about sourcing, production, and marketing. By analyzing cocoa quality data, we aim to uncover patterns in ratings, examine the impact of cocoa content, and highlight top-rated chocolate-producing regions and companies.
@@ -72,7 +73,7 @@ Some key insights from the analysis include:
 - **/scripts/**: Python scripts for data processing, analysis, and visualization.
 - **README.md**: Overview of the project, including objectives, methodology, and findings.
 
-- ## How to run the Code
+## How to run the Code
 The code is available as jupyter notebooks. To run the analysis, navigate to the [Scripts](./Scripts) directory and open the relevant Jupyter notebooks.
 
 
